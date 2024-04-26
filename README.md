@@ -22,6 +22,5 @@
 
 ##
 <img src="https://github-readme-stats.vercel.app/api?username=wtjackk&theme=blue-green" alt="">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtjackk&theme=blue-green" alt=""></img>
 
