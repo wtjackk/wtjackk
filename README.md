@@ -1,4 +1,8 @@
-### Hi there 👋
+
+
+## Ola, eu sou Jackson 🤓 
+
+
 
 ## Ola, eu sou Jackson 🤓 
 
@@ -20,6 +24,7 @@
 ## Lazeres
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+
 ##
 <img src="https://github-readme-stats.vercel.app/api?username=wtjackk&theme=blue-green" alt="">
 
