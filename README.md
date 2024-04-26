@@ -1,9 +1,4 @@
 
-
-## Ola, eu sou Jackson 🤓 
-
-
-
 ## Ola, eu sou Jackson 🤓 
 
 
